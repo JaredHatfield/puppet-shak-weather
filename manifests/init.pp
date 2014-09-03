@@ -1,0 +1,3 @@
+
+class shak-weather {
+}
